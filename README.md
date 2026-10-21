@@ -1,6 +1,8 @@
 # PDF-Based RAG Application
 A Retrieval-Augmented Generation (RAG) application for uploading PDF documents and asking questions about their content. The application extracts and chunks PDF text, finds relevant passages with vector search, and uses Groq to generate context-aware answers.
 
+![Deployment](deployment.png)
+
 ## Features
 - Upload and process one or more PDF files.
 - Extract and split document text for retrieval.
